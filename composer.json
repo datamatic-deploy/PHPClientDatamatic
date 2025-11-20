@@ -1,5 +1,5 @@
 {
-    "name": "tu-usuario/plexo-php-sdk",
+    "name": "datamatic-deploy/plexo-php-sdk",
     "description": "Plexo PHP SDK - Fork compatible con Guzzle 7+ y PSR/Log 3+",
     "type": "library",
     "license": "MIT",
